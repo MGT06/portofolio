@@ -46,7 +46,7 @@ export const projects = [
       "Both services containerized with Docker Compose and covered by CI pipelines",
     ],
     period: "Oct 2026",
-    stack: ["PostgreSQL", "Xendit", "Docker", "GitHub Actions"],
+    stack: ["React.js", "Tailwind CSS", "Go (Gin)", "PostgreSQL", "Redis", "Xendit", "JWT", "Docker", "GitHub Actions"],
     links: [
       { label: "Frontend (GitHub)", url: "https://github.com/MGT06/e-wallet_frontend" },
       { label: "Backend (GitHub)", url: "https://github.com/MGT06/e-wallet_backend" },
@@ -72,7 +72,7 @@ export const projects = [
       "Automated Docker image builds to GitHub Container Registry with GitHub Actions",
     ],
     period: "Aug 2026 – Oct 2026",
-    stack: ["React.js", "Tailwind CSS", "Go (Gin)", "PostgreSQL", "Redis", "JWT", "Docker"],
+    stack: ["React.js", "Tailwind CSS", "Go (Gin)", "PostgreSQL", "Redis", "JWT", "Docker", "GitHub Actions"],
     links: [
       { label: "Frontend (GitHub)", url: "https://github.com/MGT06/EventHub" },
       { label: "Backend (GitHub)", url: "https://github.com/MGT06/eventhub_backend" },
