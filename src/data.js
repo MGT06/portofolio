@@ -7,7 +7,7 @@ export const profile = {
   email: "grdgiven4@gmail.com",
   github: "https://github.com/MGT06",
   linkedin: "https://www.linkedin.com/in/marianus-given-talenta/",
-  photo: "/profile.png",
+  photo: "/profile.jpg",
   cvUrl: "/CV.pdf",
   availability: "Open to opportunities",
 };

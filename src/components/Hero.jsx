@@ -76,7 +76,7 @@ export default function Hero() {
                 width="400"
                 height="400"
                 onError={() => setPhotoFailed(true)}
-                className="relative aspect-square w-full rounded-3xl bg-secondary object-cover object-top shadow-sm"
+                className="relative aspect-square w-full rounded-3xl bg-secondary object-cover object-center shadow-sm"
               />
             ) : (
               <div
